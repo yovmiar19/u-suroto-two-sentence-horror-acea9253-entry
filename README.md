@@ -1,7 +1,11 @@
 # Two-Sentence Horror
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253)
-[![Node](https://img.shields.io/badge/node-%3E%3D22-brightgreen)](https://nodejs.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Make.fun](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253)
+[![Rank](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/yovmiar19/u-suroto-two-sentence-horror-acea9253-entry/rank.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253)
+[![Reward](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/yovmiar19/u-suroto-two-sentence-horror-acea9253-entry/reward.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253)
 
-A horror story told in exactly two sentences. `main.ts` writes the story to `/output/entry.txt` — an ordinary goodbye from a four-year-old, then the turn that makes it worse on a second read.
+A two-sentence horror story, entered in the [Two-Sentence Horror](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253) bounty on make.fun.
+
+> My four-year-old waved out the back window of the minivan and said goodbye to the lady standing by our car. We were doing seventy on the interstate, forty miles from home.
+
+Running `main.ts` (Node 22) writes the story — 171 characters, exactly two sentences — to `/output/entry.txt`.
